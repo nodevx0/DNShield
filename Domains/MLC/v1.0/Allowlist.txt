@@ -1,1 +1,12 @@
-
+gvt2.com
+gvt3.com
+googleapis.com
+clients.google.com
+clients1.google.com
+clients2.google.com
+clients3.google.com
+clients4.google.com
+clients5.google.com
+clients6.google.com
+firebaselogging.googleapis.com
+firebaselogging-pa.googleapis.com
